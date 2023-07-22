@@ -1,2 +1,2 @@
 # Performance-Mode-Tool
-no output
+Launch exe file, and done.
