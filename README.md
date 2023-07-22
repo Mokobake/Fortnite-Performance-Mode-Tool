@@ -1,2 +1,2 @@
-# Performance-Mode-Tool
+# Fortnite Performance Mode Tool
 Launch exe file, and done.
